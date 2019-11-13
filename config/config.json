@@ -1,0 +1,10 @@
+{
+    "server": {
+        "port": 1916
+    },
+    "braintree": {
+        "merchantId": "2tx4sgs4xrd9xt2y",
+        "publicKey": "845bcr4cr6xb2nd2",
+        "privateKey": "4c0d86103ebb6ddb04c15f3a7f30f996"
+    }
+}
